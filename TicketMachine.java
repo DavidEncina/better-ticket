@@ -83,7 +83,7 @@ public class TicketMachine
         }
         else {
             int amountLeftToPay;
-            amountLeftToPay = price - balance;git 
+            amountLeftToPay = price - balance; 
             System.out.println("You must insert: " +
                                (amountLeftToPay) + " more cents.");
                     
