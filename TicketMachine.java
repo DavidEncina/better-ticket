@@ -115,4 +115,6 @@ public class TicketMachine
     vaciaMaquina = -1;
     return vaciaMaquina;
     }
+ }
 }
+
